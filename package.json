@@ -1,15 +1,5 @@
 {
-  "name": "project-doom",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "name": "fcc-learn-npm-package-json",
   "author": "Faizan Rapati",
-  "repository": {
-    "type": "git"
-  },
-  "keywords": [],
-  "license": "ISC"
+  "version": "1.0.0"
 }
