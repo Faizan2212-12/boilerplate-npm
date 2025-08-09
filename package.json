@@ -1,15 +1,18 @@
 {
-  "name": "server.js",
-  "version": "1.0.0",
-  "description": "",
+  "name": "fcc-learn-npm-package-json",
+  "author": "Faizan",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Faizan Rapati",
-  "repository": {
-    "type": "git"
+  "engines": {
+    "node": "8.11.2"
   },
-  "keywords": [],
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
