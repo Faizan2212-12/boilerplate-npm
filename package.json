@@ -1,1 +1,16 @@
-"author": "Faizan rapati",
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "Faizan Rapati",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo-url.git"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
